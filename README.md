@@ -1,4 +1,4 @@
-<h1>Quiz</h1>
+<h1 align='center'>Quiz</h1>
 
 <div>
   <h2>Introduction</h2>
